@@ -1,0 +1,60 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Passo alterações para o componente Filho",
+      "autoria": "Componente Pai",
+      "modelo": "modelo3",
+      "id": 1,
+      "favorito": true
+    },
+    {
+      "conteudo": "I love Angular!",
+      "autoria": "Rafael",
+      "modelo": "modelo1",
+      "id": 2,
+      "favorito": true
+    },
+    {
+      "conteudo": "teste",
+      "autoria": "111",
+      "modelo": "modelo2",
+      "id": 3,
+      "favorito": false
+    },
+    {
+      "conteudo": "teste",
+      "autoria": "222",
+      "modelo": "modelo2",
+      "id": 4,
+      "favorito": false
+    },
+    {
+      "conteudo": "teste",
+      "autoria": "45555",
+      "modelo": "modelo1",
+      "id": 5,
+      "favorito": false
+    },
+    {
+      "conteudo": "teste",
+      "autoria": "6777",
+      "modelo": "modelo1",
+      "id": 7,
+      "favorito": false
+    },
+    {
+      "conteudo": "teste",
+      "autoria": "145576",
+      "modelo": "modelo1",
+      "id": 8,
+      "favorito": false
+    },
+    {
+      "conteudo": "teste",
+      "autoria": "246778",
+      "modelo": "modelo3",
+      "id": 9,
+      "favorito": false
+    }
+  ]
+}
